@@ -26,7 +26,7 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>gunasekhar m</h1>
+<h1>GUNASEKHAR.M</h1>
 <h2>21004955</h2>
 <h3>Artificial Intelligence and Machine Learning</h3>
 </body>
@@ -43,5 +43,12 @@ server_address = ('',8080)
 httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
-## OUTPUT:
-## RESULT:
+
+
+
+### OUTPUT:
+
+![output](d1.png)
+ 
+## RESULT:Thus the program exceted
+
